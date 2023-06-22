@@ -8,7 +8,7 @@ This is an app that (theoretically, as it is broken) allows the user to see the 
 
 The following image shows the web application's appearance and functionality:
 
-![dashboard-demo](./assets/demo.png)
+![dashboard-demo](assets/demo.PNG)
 
 And here is a link to the web application: https://mamaspaspa.github.io/Weather-Dashboard/
 
